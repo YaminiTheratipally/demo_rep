@@ -1,9 +1,23 @@
 # Data Project - SQL 
 ## 1. Create DB, permissions etc.
+      sudo -i -u  postgres
+      psql
+      create user yamini with password '1234';
+      CREATE ROLE
+      create database mydb;
+      CREATE DATABASE
+      grant all privileges on database mydb to yamini;
+      GRANT
+      \c mydb
+      
 
-Write a SQL script that creates a new user, and database. Make the user the owner of the db.
 ## 2. Clean up script
 
+      drop database if exists mydb;
+      DROP DATABASE
+      drop user yamini;
+      DROP ROLE
+      
 Write another SQL script that cleans up the user, and database created in the previous step.
 ## 3. Load CSV
        create table matches (id int, season int, city varchar(50), date date, team1 varchar(50),
