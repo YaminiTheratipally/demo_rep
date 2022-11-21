@@ -18,7 +18,6 @@
       drop user yamini;
       DROP ROLE
       
-Write another SQL script that cleans up the user, and database created in the previous step.
 ## 3. Load CSV
        create table matches (id int, season int, city varchar(50), date date, team1 varchar(50),
 					  team2 varchar(50),toss_winner varchar(50),toss_decision varchar(50),
@@ -38,7 +37,6 @@ Write another SQL script that cleans up the user, and database created in the pr
                   
                         
                         
-Write a SQL script that loads CSV data into a table.
 ## 4. Solve the IPL problems
 
 ### 1. Number of matches played per year of all the years in IPL.
