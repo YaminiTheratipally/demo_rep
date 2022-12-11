@@ -2,7 +2,8 @@
 ## Focus Management
 ### What is Deep Work
 #### 1. What is Deep Work?
-
+- Important intellectual work completed during long uninterrupted periods of time. Deep work requires a state of distraction‐free concentration to push your cognitive capabilities to their limit and create new value that is hard to replicate.
+- If we want to develop skills and produce work that the world considers rare and valuable, we need to develop a daily deep work ritual.
 ### Summary of Deep Work Book
 #### 2. Paraphrase all the ideas in the above videos and this one in detail.
 - According to Cal Newport deep work is a professional Activities performed in a state of distraction fress concentration, that pushes your cognitive abilities to their limit.
@@ -16,6 +17,8 @@
 - Second strategy - Develop a rhythmic deep work ritual.
 - Third strategy - Daily shutdown complete ritual.
 #### 3. How can you implement the principles in your day to day life?
+- Schedule Every Minute of Your Day
+- Quantify the Depth of Every Activity
 
 ### Dangers of Social Media
 #### 4. Your key takeaways from the video
