@@ -19,4 +19,7 @@
 
 ### Dangers of Social Media
 #### 4. Your key takeaways from the video
-- 
+- This is the first most common objection he hears. That's not a hermit, that’s actually a hipster web developer down from 8th Street; I’m not sure. Hipster or hermit? Sometimes it’s hard to tell.
+-The second common objection he hears is “Cal, I can’t quit social media because it is vital to my success in the 21st century economy. If I do not have a well-cultivated social media brand, people won’t know who I am, people won’t be able to find me, opportunities won’t come my way, and I will effectively disappear from the economy.”
+- The third comment objection he hears is “Cal, maybe I agree with you, maybe you’re right; it’s not a fundamental technology. Maybe using social media is not at the core of my professional success. But, you know what? It’s harmless, I have some fun with it."
+- Social media brings multiple, well-documented, and significant harms.
