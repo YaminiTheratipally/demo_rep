@@ -9,7 +9,9 @@
 -   Growth Mindset is the great idea to build the grit.  
 
 #### 2. What are your key takeaways from the video to take action on?
--  
+-  We need take our best ideas, our stronget intuitions, and test them.
+-  We need to be ready for the failures.
+-   
 
 ### Introduction to Growth Mindset
 
