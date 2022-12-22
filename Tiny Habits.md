@@ -31,10 +31,10 @@
 
 ### 1% Better Every Day Video
 #### 5 Your takeaways from the video (Minimum 5 points)
-
+- 
 ### Book Summary of Atomic Habits
 ####  6 Write about the book's perspective on habit formation from the lens of Identity, processes and outcomes?
-- 
+- Real change comes from the compound effects of hundreds of small decisions or small habits over time , accumulate to produce remarkable results.
 #### 7 Write about the book's perspective on how to make a good habit easier?
 
 #### 8 Write about the book's perspective on making a bad habit more difficult?
